@@ -32,4 +32,5 @@
 - 🎯 Objetivo do projeto: Utilizar essa estutura porém dando "vida" ao projeto, simulando como se fosse realmente uma loja virtual. Para isso utilizei alguns conceitos do paradigma de programação funcioinal além da biblioteca Streamlit para conseguir a interação com usuário, simulando ao máximo a proximidade com um verdadeiro site.
     > Projeto finalizado
       ![Imagem do projeto finalizado](Projeto%20Streamlit%20finalizado.png)
-- 🔗 Mais informações: No meu linkedin existe uma publicação que explica um pouco da construção do meu projeto, confere lá😉: 
+- 🔗 Mais informações: No meu linkedin existe uma publicação que explica um pouco da construção do meu projeto, confere lá😉: [Publicação](https://www.linkedin.com/posts/bruno-pereira-de-oliveira_streamlit-python-activity-7205251367060283394-BHD2?utm_source=share&utm_medium=member_desktop)
+
