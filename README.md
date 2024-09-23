@@ -1,6 +1,8 @@
-# CursoBruce_Python
+# Projeto do Curso de Python do Bruce Fonseca
 ### Este protejo foi baseado em um exercício do módulo de Python do curso do Bruce Fonseca
-- 📚 Contexto: No **módulo 07. Funções**, mais especificamente na aula **10. Criando funções - parte 3** o professor Bruce demonstra em código a utilização das funções, e como elas permitem que o mesmo código seja reutilizado sem repeti-lo. Ele criou um exemplo de fácil compreensão: uma empresa fictícia de serviços de manutenção no qual lia um dicionário, usava como parâmetro para uma função uma lista, e aplicava no retorno um laço de repetição(`for`), ao final imprimia o resultado junto com alguns textos. Segue abaixo um exemplo de como ficou o código final que ele produziu:
+- 📚 Contexto: No **módulo 07. Funções**, mais especificamente na aula **10. Criando funções - parte 3**, o professor Bruce demonstra, por meio de código, como as funções permitem reutilizar o mesmo código sem necessidade de repeti-lo. Ele apresenta um exemplo simples e didático: uma empresa fictícia de serviços de manutenção. Nesse exemplo, ele lê um dicionário e utiliza uma lista como parâmetro para uma função. A função, por sua vez, aplica um laço de repetição (`for`) para calcular o custo e o tempo do pedido, e ao final, imprime o resultado com algumas informações adicionais.
+
+    Abaixo está o código final produzido por ele:
 
     > Código final
     ```python
@@ -29,8 +31,10 @@
     Valor total = R$ 150
     Tempo total = 90 min
     ```
-- 🎯 Objetivo do projeto: Utilizar essa estutura porém dando "vida" ao projeto, simulando como se fosse realmente uma loja virtual. Para isso utilizei alguns conceitos do paradigma de programação funcioinal além da biblioteca Streamlit para conseguir a interação com usuário, simulando ao máximo a proximidade com um verdadeiro site.
+- 🎯 Objetivo do projeto: O objetivo deste projeto é utilizar essa estrutura, dando "vida" ao código e simulando uma loja virtual real. Para isso, apliquei conceitos do paradigma de programação funcional, além de utilizar a biblioteca Streamlit para possibilitar a interação com o usuário, simulando ao máximo a experiência de um site verdadeiro.
     > Projeto finalizado
       ![Imagem do projeto finalizado](Projeto%20Streamlit%20finalizado.png)
-- 🔗 Mais informações: No meu linkedin existe uma publicação que explica um pouco da construção do meu projeto, confere lá😉: [Publicação](https://www.linkedin.com/posts/bruno-pereira-de-oliveira_streamlit-python-activity-7205251367060283394-BHD2?utm_source=share&utm_medium=member_desktop)
+- 🔗 Mais informações: No meu linkedin criei uma publicação onde explico toda a construção desse projeto, desde o processo de planejamento da solução até o desenvolvimento, confere lá😉: <br>
+      [1ª Publicação](https://www.linkedin.com/posts/bruno-pereira-de-oliveira_ol%C3%A1-rede-depois-de-pouco-mais-de-2-meses-activity-7202726667612524544-kAHE?utm_source=share&utm_medium=member_desktop) <br>
+      [2ª Publicação](https://www.linkedin.com/posts/bruno-pereira-de-oliveira_streamlit-python-activity-7205251367060283394-BHD2?utm_source=share&utm_medium=member_desktop) <br>
 
